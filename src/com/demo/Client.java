@@ -12,7 +12,7 @@ public class Client {
 		MsgRenderer msgRenderer = MessageSupportFactory.getInstance().getRenderer();
 		MsgProvider msgProvider = MessageSupportFactory.getInstance().getProvider();
 		msgRenderer.setMsgProvider(msgProvider);
-		msgRenderer.render(); 
+		msgRenderer.render();
 
 		// String name = msgRenderer.getClass().getSimpleName();
 		// System.out.println(name);
