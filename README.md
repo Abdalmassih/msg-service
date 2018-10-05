@@ -1,0 +1,3 @@
+# msg-service
+mini demo project
+readme text...
